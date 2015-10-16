@@ -2,186 +2,186 @@
 <items version="2" >
 
     <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-1acbe5cee14448018a77d02eb74aed5584566a88.jar" />
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-3e6476b60e204c051ee98e3950439084c429d57b.jar" />
     </item>
     <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-e5ab3810271b1eaf10294bd3b5df5022530a1f52.jar" />
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-2496ac79eed7189bcceb6888f7fb2129fc1c47b2.jar" />
     </item>
     <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-56ac29d925274390b5b26089312745957df84622.jar" />
+    </item>
+    <item
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-64404cf878eea4a61d574cdf4c00cfe42691e41e.jar" />
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-b5b294e6d1a89e288594e056d20369d151697d59.jar" />
     </item>
     <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-191fd1d3a188cd8f8633563706f6d5e2c3ee956d.jar" />
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-62b3540f9d3dfe0d195b7ca2217f4f4effff6b70.jar" />
     </item>
     <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-dfdebb0e51225860db1988ed5c0cebf8e55c9322.jar" />
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-2e93c16e97a9cb22b0f907e8b775361a4e54c8f4.jar" />
     </item>
     <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-c12254b07b8c0d24b61170222cda87abd9eace28.jar" />
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-5635cbf6fb8a37e6d74a877e2739f9c4e2137a59.jar" />
     </item>
     <item
         jar="/Users/bartoszlecki/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-4dfc994cc959cfe1dd4f2207dc6df072241babad.jar" />
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-4dfc994cc959cfe1dd4f2207dc6df072241babad.jar" />
     </item>
     <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-4bbab2e42dc158e791073d71479b498625d7fb1a.jar" />
-    </item>
-    <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-00f9700c56d77b7e28b5093ffd017f9e005c0816.jar" />
-    </item>
-    <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-91ad384c384385cd3038120e046b753c4be4b8da.jar" />
-    </item>
-    <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-eaeceb4834c03766cac12317f371eaaa0ec281d6.jar" />
-    </item>
-    <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-4f202a3f00277376c5ec71d14a710a445da70dc9.jar" />
-    </item>
-    <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-3e5ddbe97e2b897b7ff28906731a3377a21ded73.jar" />
-    </item>
-    <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-d163d2991f2d951a537d32cfebcdb2271f85755b.jar" />
-    </item>
-    <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-bf581aa5590866a3e580156fdf70f858e36412ae.jar" />
-    </item>
-    <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-4e383ceeef2c66e86a666e6bb4525bf6f32f165a.jar" />
-    </item>
-    <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-bdc4f5ee290e6ca3af08eea1fecc76b630315a4a.jar" />
-    </item>
-    <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-f3fe76fc6249d3ad8c057f95da1658a003464610.jar" />
-    </item>
-    <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-57d8cc837d631b0f77ca7e93d8186cd5235bf59f.jar" />
-    </item>
-    <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-8d98a279c613f4cca277f1d88573f05665c2a684.jar" />
-    </item>
-    <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-01c620190597866100252b9fb091d99842133f72.jar" />
-    </item>
-    <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a78183f30e769a98ab4820794f597763088d3065">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-b223c1b5b978f9bed9914ddb6f340d5d9bbd71ee.jar" />
-    </item>
-    <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-570677cf16ca4eff6423ddb93884eae9e4de1acf.jar" />
-    </item>
-    <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d405025c600055237c171a0bbabaa49d69696573">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-4cd251a672acb5a9f3b7ac10da8f6c6c73ae0bc0.jar" />
-    </item>
-    <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-fb15cda76950808bf238b7bcb84ade050b4c6e36.jar" />
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-3cb66ed56784de05d01ae24897f99d701a1e614e.jar" />
     </item>
     <item
-        jar="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-218d9a9f3e79d6b30886b6b01a1fcf06005db35e.jar" />
+    </item>
+    <item
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-9d5a83457dd8bb96cb4ffc6e968f830c4fe83db1.jar" />
+    </item>
+    <item
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-ccce0cd1eb21f0c3898e299aacbc6b4d9ab921cf.jar" />
+    </item>
+    <item
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-e61d1674447552f798da44bf777e0f9750e944d9.jar" />
+    </item>
+    <item
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-f2448e545c87d7398e0cbfc95504456d3237c5f9.jar" />
+    </item>
+    <item
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-a86be617c8612709bb1a4c3b259456ce3975ed68.jar" />
+    </item>
+    <item
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/Zjedzguru/app/build/intermediates/pre-dexed/debug/classes-fe7e170f1be8c70464953c5568f66548daf9b803.jar" />
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-b305bf83f11c122b037218c15ead92a5878effd3.jar" />
+    </item>
+    <item
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-867c4a8f91c20f4585f0a293a64a36850499d0a5.jar" />
+    </item>
+    <item
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-0d586aae8ac186d5bec5572aab2166d10ce9bc0e.jar" />
+    </item>
+    <item
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-cd0190e1b81602b2058c24f8ea7f2e380872c4cc.jar" />
+    </item>
+    <item
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-bceccdbd6e8255a64b7e5de1930ddde9468e00c5.jar" />
+    </item>
+    <item
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-efe4dc452bcca7dcdcba6da6e8470738319b2dce.jar" />
+    </item>
+    <item
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-49a280faceed754a4ee848b02290980c48cd3632.jar" />
+    </item>
+    <item
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-45282d6d35d23f7512f5280f094f8fdcb4417182.jar" />
+    </item>
+    <item
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-62c7ff567f710e3f1a77f05e7653a40653a8c7b7.jar" />
+    </item>
+    <item
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-22867b6c995da8340cab3aaf1aa74b6f745ad599.jar" />
+    </item>
+    <item
+        jar="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/bartoszlecki/AndroidStudioProjects/eatguru-android/app/build/intermediates/pre-dexed/debug/classes-2999041a65cdf6e85b1086c237c12fed5b53dc82.jar" />
     </item>
 
 </items>
